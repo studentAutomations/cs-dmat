@@ -59,5 +59,5 @@ try:
         novosti_file.write(novosti_markdown)
 
 finally:
-    # Clean up by quitting the driver
+    
     page_to_scrape.quit()
