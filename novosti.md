@@ -1,5 +1,3 @@
-News forum
-General news and announcements
 List of discussions. Showing 91 of 91 discussions
 Status
 Discussion Started by Last post Replies
@@ -550,47 +548,3 @@ Igor Milovanović
 Igor Milovanović
 3 Jun 2015
 0
-Jump to...
-                    Jump to...
-                    Pre svih lekcija, ili lekcija svih lekcija...
-                    Elementi matematičke logike
-                    Skupovi
-                    Binarne relacije. Funkcije
-                    Kombinatorika
-                    Permanent
-                    Funkcije generatrise. Rekurentni nizovi
-                    Redovi
-                    Celi brojevi
-                    Elementi matematičke logike
-                    Elementi matematičke logike - drugi deo
-                    Skupovi
-                    Relacije
-                    Kombinatorika
-                    Permanent
-                    Funkcija generatrise
-                    Funkcija generatrise. Rekurentni nizovi-2.deo
-                    Redovi
-                    Celi brojevi
-                    Euklidov algoritam. Diofantove jdnačine
-                    Ojlerova funkcija. Ojlerova teorema. Mala Fermaova teorema,...
-                    Elementi matematičke logike
-                    Skupovi
-                    Binarne relacije. Funkcije
-                    Permanent. Sistemi različitih predstavnika
-                    Redovi
-                    Fukcije generatrise. Rekurentni nizovi
-                    Celi brojevi (predavanja 7-11)
-                    Elementi matematičke logike - Vežbe
-                    Elementi matematičke logike - drugi deo
-                    Skupovi
-                    Relacije
-                    Permanent
-                    Redovi
-                    Funkcija generatrise
-                    Funkcija generatrise. Rekurentni nizovi-2.deo
-                    Celi brojevi
-                    Euklidov algoritam. Diofantove jdnačine
-                    Ojlerova funkcija. Ojlerova teorema. Mala Fermaova teorema,...
-                    Knjiga iz Diskretne matematike
-                    Zbirka zadataka
-         Pre svih lekcija, ili lekcija svih lekcija...  ►
