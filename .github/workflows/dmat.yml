@@ -1,6 +1,8 @@
 name: cs dmat scraper
 
-on: [workflow_dispatch]
+on: 
+  schedule:
+    - cron: '*/1 * * * *'
 
 jobs:
   build:
