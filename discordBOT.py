@@ -12,4 +12,6 @@ for url in WEBHOOK_URL:
         color=0x3498DB
     )
 
-    
+    embed.set_image(url="attachment://cs-dmat-nova-obavestenja.png")
+    file = File(image2_path, name="cs-dmat-nova-obavestenja.png")
+    hook.send("**@everyone 📢 Diskretna**", embed=embed, file=file)
