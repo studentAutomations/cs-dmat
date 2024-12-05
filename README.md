@@ -1,1 +1,1 @@
-**Web scraper za diskretnu matematiku**
+**Web scraper za Diskretnu Matematiku**
