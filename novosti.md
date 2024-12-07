@@ -1,7 +1,13 @@
-List of discussions. Showing 91 of 91 discussions
+List of discussions. Showing 92 of 92 discussions
 Status
 Discussion Started by Last post Replies
 Actions
+Rezultati DM decembar 2024.
+Stefan Stankov
+7 Dec 2024
+Stefan Stankov
+7 Dec 2024
+0
 Rezultati DM oktobar (dodatno polaganje) 2024.
 Stefan Stankov
 30 Sep 2024
