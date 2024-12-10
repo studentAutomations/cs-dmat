@@ -1,8 +1,8 @@
 name: cs dmat scraper
 
-on: 
-  schedule:
-    - cron: '*/1 * * * *'
+on: [workflow_dispatch]
+ # schedule:
+  #  - cron: '*/1 * * * *'
 
 jobs:
   build:
@@ -57,5 +57,6 @@ jobs:
       - name: Discord bot notification
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
         env:
-          WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+          #WEBHOOK_MAIN: ${{ secrets.WEBHOOK_MAIN }}
+          PB: ${{ secrets.PB }}
         run: python discordBOT.py
