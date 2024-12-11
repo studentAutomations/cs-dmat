@@ -7,7 +7,7 @@ import os
 
 # Chrome options
 chrome_options = Options()
-chrome_options.add_argument("--headless")  
+chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.binary_location = "/usr/bin/google-chrome"
@@ -46,7 +46,7 @@ try:
 
     # Step 6: Navigate to the forum search page
     page_to_scrape.get("https://cs.elfak.ni.ac.rs/nastava/mod/forum/search.php?id=97&words=&phrase=&notwords=&fullwords=&timefromrestrict=1&fromday=1&frommonth=1&fromyear=2000&fromhour=0&fromminute=0&hfromday=0&hfrommonth=0&hfromyear=0&hfromhour=0&hfromminute=0&htoday=1&htomonth=1&htoyear=1&htohour=1&htominute=1&forumid=&subject=&user=")
-
+    
     # Step 7: Extract data and save it to a markdown file
     responseT = page_to_scrape.find_element(By.XPATH, '//*[@id="region-main"]')
     novosti_markdown = responseT.text
